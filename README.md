@@ -1,7 +1,7 @@
 # FortiBlock: Hybrid Blockchain Framework for Secure Access Control in Cloud Environment
 
 <!-- Add Project Logo/Banner Image Here -->
-![FortiBlock Banner](https://place-for-your-banner-image.png)
+![FortiBlock Banner](https://github.com/SunilRavi7/FortiBlock_A-Hybrid-Blockchain-Framework-for-Secure-Cloud-Access-Data-Environment/blob/main/Results/Main_Pic.png)
 
 ## 🎉 Award Recognition
 We are thrilled to share that FortiBlock has been **selected for sponsorship** under the **48th Series of Student Project Programme (SPP) 2024-25** by the **Karnataka State Council for Science and Technology (KSCST)**! 
@@ -41,7 +41,7 @@ Our project addresses these challenges by integrating blockchain technology, cry
 ## 🏗️ Architecture
 FortiBlock employs a unique hybrid blockchain architecture with the following workflow:
 
-![Architecture Flow](https://place-for-your-architecture-image.png)
+![Architecture Flow](https://github.com/SunilRavi7/FortiBlock_A-Hybrid-Blockchain-Framework-for-Secure-Cloud-Access-Data-Environment/blob/main/Results/Arc.png)
 
 1. **Data Owner Upload**: Resources are uploaded to cloud storage
 2. **Cloud Verification**: Validation of uploaded data
@@ -134,23 +134,23 @@ FortiBlock implements AES encryption with the following process:
 ## 📊 Results and Demonstrations
 
 ### System Interface
-![Welcome Page](https://place-for-welcome-page-screenshot.png)
+![Welcome Page](https://github.com/SunilRavi7/FortiBlock_A-Hybrid-Blockchain-Framework-for-Secure-Cloud-Access-Data-Environment/blob/main/Results/Overview.png)
 *FortiBlock welcome interface*
 
 ### Data Owner Dashboard
-![Data Owner Dashboard](https://place-for-dashboard-screenshot.png)
+![Data Owner Dashboard](https://github.com/SunilRavi7/FortiBlock_A-Hybrid-Blockchain-Framework-for-Secure-Cloud-Access-Data-Environment/blob/main/Results/DO_Dashboard.png)
 *Upload and access control management interface*
 
 ### Data User Access
-![Data User Access](https://place-for-data-user-screenshot.png)
+![Data User Access](https://github.com/SunilRavi7/FortiBlock_A-Hybrid-Blockchain-Framework-for-Secure-Cloud-Access-Data-Environment/blob/main/Results/DU_Dashboard.png)
 *Secure file access and download interface*
 
 ### Indirect Sharing
-![Indirect Sharing](https://place-for-indirect-sharing-screenshot.png)
+![Indirect Sharing](https://github.com/SunilRavi7/FortiBlock_A-Hybrid-Blockchain-Framework-for-Secure-Cloud-Access-Data-Environment/blob/main/Results/Indirect%20Access.png)
 *Controlled indirect access sharing mechanism*
 
 ### Revocation Management
-![Revocation Dashboard](https://place-for-revocation-screenshot.png)
+![Revocation Dashboard](https://github.com/SunilRavi7/FortiBlock_A-Hybrid-Blockchain-Framework-for-Secure-Cloud-Access-Data-Environment/blob/main/Results/Access_Rovocation.png)
 *Access revocation interface with cascade effect*
 
 ## 🌐 Applications
