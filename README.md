@@ -52,7 +52,7 @@ Our project addresses these challenges by integrating blockchain technology, cry
 FortiBlock employs a unique hybrid blockchain architecture with the following workflow:
 
 <div align="center">
-  <img src="https://github.com/SunilRavi7/FortiBlock_A-Hybrid-Blockchain-Framework-for-Secure-Cloud-Access-Data-Environment/blob/main/Results/architecture.png" alt="Architecture Flow" width="750px">
+  <img src="https://github.com/SunilRavi7/FortiBlock_A-Hybrid-Blockchain-Framework-for-Secure-Cloud-Access-Data-Environment/blob/main/Results/Arc.png" alt="Architecture Flow" width="750px">
 </div>
 
 1. **Data Owner Upload**: Resources are uploaded to cloud storage
@@ -128,7 +128,7 @@ FortiBlock employs a unique hybrid blockchain architecture with the following wo
 FortiBlock implements AES encryption with the following process:
 
 <div align="center">
-  <img src="https://github.com/SunilRavi7/FortiBlock_A-Hybrid-Blockchain-Framework-for-Secure-Cloud-Access-Data-Environment/blob/main/Results/aes_process.png" alt="AES Process" width="650px">
+  <img src="https://github.com/SunilRavi7/FortiBlock_A-Hybrid-Blockchain-Framework-for-Secure-Cloud-Access-Data-Environment/blob/main/Results/AES.png" alt="AES Process" width="650px">
 </div>
 
 1. Key Generation (128, 192, or 256 bits)
@@ -145,7 +145,7 @@ FortiBlock implements AES encryption with the following process:
 ### SHA-256/512 for Credential Protection
 
 <div align="center">
-  <img src="https://github.com/SunilRavi7/FortiBlock_A-Hybrid-Blockchain-Framework-for-Secure-Cloud-Access-Data-Environment/blob/main/Results/sha_process.png" alt="SHA Process" width="650px">
+  <img src="https://github.com/SunilRavi7/FortiBlock_A-Hybrid-Blockchain-Framework-for-Secure-Cloud-Access-Data-Environment/blob/main/Results/SHA_256.png" alt="SHA Process" width="650px">
 </div>
 
 1. User registration with secure password hashing
@@ -158,35 +158,35 @@ FortiBlock implements AES encryption with the following process:
 ### System Interface
 
 <div align="center">
-  <img src="https://github.com/SunilRavi7/FortiBlock_A-Hybrid-Blockchain-Framework-for-Secure-Cloud-Access-Data-Environment/blob/main/Results/welcome_page.png" alt="Welcome Page" width="750px">
+  <img src="https://github.com/SunilRavi7/FortiBlock_A-Hybrid-Blockchain-Framework-for-Secure-Cloud-Access-Data-Environment/blob/main/Results/Overview.png" alt="Welcome Page" width="750px">
   <p><em>FortiBlock welcome interface</em></p>
 </div>
 
 ### Data Owner Dashboard
 
 <div align="center">
-  <img src="https://github.com/SunilRavi7/FortiBlock_A-Hybrid-Blockchain-Framework-for-Secure-Cloud-Access-Data-Environment/blob/main/Results/owner_dashboard.png" alt="Data Owner Dashboard" width="750px">
+  <img src="https://github.com/SunilRavi7/FortiBlock_A-Hybrid-Blockchain-Framework-for-Secure-Cloud-Access-Data-Environment/blob/main/Results/DO_Dashboard.png" alt="Data Owner Dashboard" width="750px">
   <p><em>Upload and access control management interface</em></p>
 </div>
 
 ### Data User Access
 
 <div align="center">
-  <img src="https://github.com/SunilRavi7/FortiBlock_A-Hybrid-Blockchain-Framework-for-Secure-Cloud-Access-Data-Environment/blob/main/Results/user_access.png" alt="Data User Access" width="750px">
+  <img src="https://github.com/SunilRavi7/FortiBlock_A-Hybrid-Blockchain-Framework-for-Secure-Cloud-Access-Data-Environment/blob/main/Results/DU_Dashboard.png" alt="Data User Access" width="750px">
   <p><em>Secure file access and download interface</em></p>
 </div>
 
 ### Indirect Sharing
 
 <div align="center">
-  <img src="https://github.com/SunilRavi7/FortiBlock_A-Hybrid-Blockchain-Framework-for-Secure-Cloud-Access-Data-Environment/blob/main/Results/indirect_sharing.png" alt="Indirect Sharing" width="750px">
+  <img src="https://github.com/SunilRavi7/FortiBlock_A-Hybrid-Blockchain-Framework-for-Secure-Cloud-Access-Data-Environment/blob/main/Results/Indirect%20Access.png" alt="Indirect Sharing" width="750px">
   <p><em>Controlled indirect access sharing mechanism</em></p>
 </div>
 
 ### Revocation Management
 
 <div align="center">
-  <img src="https://github.com/SunilRavi7/FortiBlock_A-Hybrid-Blockchain-Framework-for-Secure-Cloud-Access-Data-Environment/blob/main/Results/revocation.png" alt="Revocation Dashboard" width="750px">
+  <img src="https://github.com/SunilRavi7/FortiBlock_A-Hybrid-Blockchain-Framework-for-Secure-Cloud-Access-Data-Environment/blob/main/Results/Access_Rovocation.png" alt="Revocation Dashboard" width="750px">
   <p><em>Access revocation interface with cascade effect</em></p>
 </div>
 
@@ -223,10 +223,10 @@ FortiBlock implements AES encryption with the following process:
 
 | Name | Role | Contribution | GitHub |
 |:------:|:------:|:--------------|:--------:|
-| **Sunil R** (Team Lead) | Full Stack Developer | Project coordination, Backend implementation, Cloud integration | [GitHub](https://github.com/SunilRavi7) |
-| **Shivakumar** | Security Specialist | Cryptography implementation, Security protocols | [GitHub](https://github.com/Shivakumarmathpati) |
-| **Surya Bharadwaj B S** | Blockchain Developer | Smart contract development, Blockchain integration | [GitHub](https://github.com/username) |
-| **Rohan A Murari** | Frontend Designer | UI/UX design, Frontend implementation, Documentation | [GitHub](https://github.com/username) |
+| **Sunil R** (Team Lead) | Full Stack Developer | Project coordination, Backend implementation, Cloud integration, Blockchain, Algorithms, Solidity| [GitHub](https://github.com/SunilRavi7) |
+| **Shivakumar** | Security Specialist | Cryptography Algorithms implementation, Security protocols, RBAC | [GitHub](https://github.com/Shivakumarmathpati) |
+| **Surya Bharadwaj B S** | Project Team | Literature Survey, Testing |  |
+| **Rohan A Murari** | Project Team | SRS-Functional and Non-Functional Req., Documentation |  |
 
 </div>
 
@@ -256,7 +256,7 @@ We extend our sincere gratitude to:
 
 📧 **Email:** [sunilr31r@gmail.com](mailto:sunilr31r@gmail.com)
 
-💼 **LinkedIn:** [Sunil R](https://www.linkedin.com/in/sunil-r-1234567890/)
+💼 **LinkedIn:** [Sunil R](www.linkedin.com/in/sunilravi7)
 
 🌐 **Project Repository:** [FortiBlock GitHub](https://github.com/SunilRavi7/FortiBlock_A-Hybrid-Blockchain-Framework-for-Secure-Cloud-Access-Data-Environment)
 
