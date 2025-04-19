@@ -1,0 +1,36 @@
+{% load static %}
+<html>
+<head>
+<title>Auth Privacy Chain</title>
+<meta http-equiv="content-type" content="text/html; charset=utf-8" />
+<link href="{% static 'style.css' %}" rel="stylesheet" type="text/css" />
+</head>
+<body>
+<div class="main">
+  <div class="main_resize">
+    <div class="header">
+      <div class="logo">
+        <h1><span>AuthPrivacyChain: A Blockchain-Based
+Access Control Framework With
+Privacy Protection in Cloud</span><small></small></h1>
+      </div>
+    </div>
+    <div class="content">
+      <div class="content_bg">
+        <div class="menu_nav">
+          <ul>
+            <ul>
+      
+      <li><a href="{% url 'UploadImage' %}">Upload Data</a></li>
+      <li><a href="{% url 'RevokeUser' %}">Revoke User</a></li>
+      <li><a href="{% url 'index' %}">Logout</a></li>
+   </ul>
+          </ul>
+        </div>
+        <div class="hbg"><img src="{% static 'images/header_images.jpg' %}" width="915" height="286" alt="" /></div>
+
+		<font size="3" color="red"><center>{{ data|safe }}</center></font>
+
+       
+  </body>
+</html>
