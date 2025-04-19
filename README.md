@@ -19,8 +19,9 @@ We are thrilled to share that FortiBlock has been **selected for sponsorship** u
 - [Applications](#applications)
 - [Future Scope](#future-scope)
 - [Team Members](#team-members)
+- [Project Documentation](#project-documentation)
 - [Acknowledgements](#acknowledgements)
-- [References](#references)
+- [Contact](#contact)
 
 ## 🔍 Project Overview
 FortiBlock is a blockchain-powered security framework designed to provide two-way data protection and secure access control for cloud environments. Traditional centralized cloud access control systems are prone to single points of failure, insider threats, and lack of transparency, making them vulnerable to data breaches and unauthorized modifications.
@@ -54,8 +55,10 @@ FortiBlock employs a unique hybrid blockchain architecture with the following wo
 
 ## 💻 Technology Stack
 
+<div align="center">
+
 | Component | Technologies |
-|-----------|-------------|
+|:-------------:|:-------------:|
 | **Frontend** | HTML, CSS, JavaScript |
 | **Backend** | Django, Node.js |
 | **Blockchain** | Ethereum, Solidity Smart Contracts, Web3.js |
@@ -63,6 +66,8 @@ FortiBlock employs a unique hybrid blockchain architecture with the following wo
 | **Authentication** | SHA-256/512 Hashing |
 | **Cloud Storage** | IPFS API |
 | **Data Structures** | Merkle Trees, Mapping, Linked Lists, Hash Tables |
+
+</div>
 
 ## 🔧 Implementation Details
 
@@ -90,8 +95,10 @@ FortiBlock employs a unique hybrid blockchain architecture with the following wo
 
 ### Data Structure Design
 
+<div align="center">
+
 | Data Structure | Purpose |
-|----------------|---------|
+|:-------------:|:-------------:|
 | **Merkle Trees** | Secure verification of user credentials using SHA-256 |
 | **Solidity Mappings** | Storage of user credentials, roles, and permissions |
 | **Linked Lists** | Blockchain structure for immutable records |
@@ -100,6 +107,8 @@ FortiBlock employs a unique hybrid blockchain architecture with the following wo
 | **Hash Tables** | Management of hashed user credentials |
 | **Access Control Matrix** | Mapping users to specific file permissions |
 | **Role Hierarchy (Tree)** | Hierarchical structure for RBAC |
+
+</div>
 
 ## 🔐 Security Mechanisms
 
@@ -145,26 +154,56 @@ FortiBlock implements AES encryption with the following process:
 *Access revocation interface with cascade effect*
 
 ## 🌐 Applications
-- **Enterprise Data Management**: Secure cloud storage for sensitive corporate data
-- **Educational Institutions**: Protected management of student records and research data
-- **Healthcare Systems**: Privacy-preserving handling of patient medical records
-- **Government Agencies**: Tamper-proof management of sensitive citizen data
-- **Multi-party Collaborations**: Controlled access to shared resources
+
+<div align="center">
+
+| Sector | Application |
+|:-------------:|:-------------:|
+| **Enterprise** | Secure cloud storage for sensitive corporate data |
+| **Education** | Protected management of student records and research data |
+| **Healthcare** | Privacy-preserving handling of patient medical records |
+| **Government** | Tamper-proof management of sensitive citizen data |
+| **Collaboration** | Controlled access to shared resources across organizations |
+
+</div>
 
 ## 🚀 Future Scope
-- **Multi-cloud Integration**: Expand support for multiple cloud providers
-- **AI-powered Access Control**: Implement machine learning for dynamic permission adjustment
-- **Real-time Threat Detection**: Develop anomaly detection for suspicious activities
-- **Quantum-resistant Cryptography**: Upgrade encryption for protection against quantum threats
+
+<div align="center">
+
+| Enhancement | Description |
+|:-------------:|:-------------:|
+| **Multi-cloud Integration** | Expand support for multiple cloud providers |
+| **AI-powered Access Control** | Implement machine learning for dynamic permission adjustment |
+| **Real-time Threat Detection** | Develop anomaly detection for suspicious activities |
+| **Quantum-resistant Cryptography** | Upgrade encryption for protection against quantum threats |
+
+</div>
 
 ## 👥 Team Members
 
+<div align="center">
+
 | Name | Role | Contribution | GitHub |
-|------|------|--------------|--------|
+|:------:|:------:|:--------------|:--------:|
 | **Sunil R** (Team Lead) | Full Stack Developer | Project coordination, Backend implementation, Cloud integration | [GitHub](https://github.com/username) |
 | **Shivakumar** | Security Specialist | Cryptography implementation, Security protocols | [GitHub](https://github.com/Shivakumarmathpati) |
 | **Surya Bharadwaj B S** | Blockchain Developer | Smart contract development, Blockchain integration | [GitHub](https://github.com/username) |
 | **Rohan A Murari** | Frontend Designer | UI/UX design, Frontend implementation, Documentation | [GitHub](https://github.com/username) |
+
+</div>
+
+## 📚 Project Documentation
+
+<div align="center">
+
+### Access Complete Project Report
+
+![Project Report QR Code](https://place-for-qr-code.png)
+
+[Download Full Project Report](https://link-to-your-project-report.pdf)
+
+</div>
 
 ## 🙏 Acknowledgements
 We extend our sincere gratitude to:
@@ -172,12 +211,22 @@ We extend our sincere gratitude to:
 - Dr. Girija J, HOD, Department of Computer Science & Engineering, Bangalore Institute of Technology
 - Karnataka State Council for Science and Technology (KSCST) for recognizing and sponsoring our project
 
-## 📚 References
-1. Zhou, W., Ji, J. (2019). A Blockchain-Based Access Control Framework for Secured Data Sharing in Industrial Internet. IEEE Eighth International Conference on Advanced Cloud and Big Data.
-2. Tan, L., Shi, N., Yang, C., Yu, K. (2020). A Blockchain-Based Access Control Framework for Cyber-Physical-Social System Big Data. Global Information and Telecommunication Institute, Waseda University.
-3. Lin, X., Li, J., Wu, J., Liang, H., Yang, W. (2019). Making knowledge tradable in edge-AI enabled IoT: A consortium blockchain-based efficient and incentive approach. IEEE Trans. Ind. Informat., 15(12), 6367-6378.
-4. Li, W., Wu, J., Cao, J., Chen, N., Zhang, Q., Buyya, R. (2021). Blockchain-based trust management in cloud computing systems: a taxonomy, review and future directions. Qianjiang College, Hangzhou Normal University.
-5. Algarni, S., Eassa, F., Almarhabi, K., Almalaise, A., Albassam, E. (2021). Blockchain-Based Secured Access Control in an IoT System. Applied Sciences, 11(4), 1772.
+## 📬 Contact
+
+<div align="center">
+
+**For inquiries and collaboration opportunities:**
+
+📧 **Email:** [sunilr31r@gmail.com](mailto:sunilr31r@gmail.com)
+
+💼 **LinkedIn:** [Sunil R](https://www.linkedin.com/in/your-profile/)
+
+🌐 **Project Website:** [FortiBlock](https://fortiblock.example.com)
+
+</div>
 
 ---
-© 2024 FortiBlock Team | Developed at Bangalore Institute of Technology
+
+<div align="center">
+<p style="font-family: 'Cambria', serif;">© 2024 FortiBlock Team | Developed at Bangalore Institute of Technology</p>
+</div>
