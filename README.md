@@ -186,10 +186,8 @@ FortiBlock implements AES encryption with the following process:
 
 | Name | Role | Contribution | GitHub |
 |:------:|:------:|:--------------|:--------:|
-| **Sunil R** (Team Lead) | Full Stack Developer | Project coordination, Backend implementation, Cloud integration | [GitHub](https://github.com/username) |
-| **Shivakumar** | Security Specialist | Cryptography implementation, Security protocols | [GitHub](https://github.com/Shivakumarmathpati) |
-| **Surya Bharadwaj B S** | Blockchain Developer | Smart contract development, Blockchain integration | [GitHub](https://github.com/username) |
-| **Rohan A Murari** | Frontend Designer | UI/UX design, Frontend implementation, Documentation | [GitHub](https://github.com/username) |
+| **Sunil R** (Team Lead) | Full Stack Developer | Project coordination, Backend implementation, Algorithms, Cloud integration, Blockchain | [GitHub](https://github.com/username) |
+| **Shivakumar** | Security Specialist | Cryptography Algorithms implementation, Security protocols | [GitHub](https://github.com/Shivakumarmathpati) |
 
 </div>
 
@@ -221,7 +219,7 @@ We extend our sincere gratitude to:
 
 💼 **LinkedIn:** [Sunil R](https://www.linkedin.com/in/your-profile/)
 
-🌐 **Project Website:** [FortiBlock](https://fortiblock.example.com)
+
 
 </div>
 
