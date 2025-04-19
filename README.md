@@ -236,9 +236,9 @@ FortiBlock implements AES encryption with the following process:
 
 ### Access Complete Project Report
 
-<img src="https://github.com/SunilRavi7/FortiBlock_A-Hybrid-Blockchain-Framework-for-Secure-Cloud-Access-Data-Environment/blob/main/Results/qr_code.png" alt="Project Report QR Code" width="250px">
+<img src="https://github.com/SunilRavi7/FortiBlock_A-Hybrid-Blockchain-Framework-for-Secure-Cloud-Access-Data-Environment/blob/main/Results/rb.gy.iv7k2x.png" alt="Project Report QR Code" width="250px">
 
-[Download Full Project Report](https://github.com/SunilRavi7/FortiBlock_A-Hybrid-Blockchain-Framework-for-Secure-Cloud-Access-Data-Environment/blob/main/Documentation/FortiBlock_Project_Report.pdf)
+[Download Full Project Report](https://rb.gy/iv7k2x)
 
 </div>
 
