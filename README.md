@@ -2,48 +2,140 @@
 <h3 align="center">Hybrid Blockchain Framework for Secure Access Control in Cloud Environment</h3>
 
 <p align="center">
-  <img src="#" alt="FortiBlock Title Image" width="700"/> <!-- Replace '#' with title image URL -->
+  <img src="#" alt="FortiBlock Banner" width="700"/> <!-- Replace '#' with actual banner image -->
 </p>
 
 <p align="center">
-  🎉 <strong>Proud Moment!</strong> 🎉<br>
-  Our project <b>FortiBlock</b> has been officially selected for sponsorship under the <strong>48th Series of Student Project Programme (SPP) 2024-25</strong> by the <strong>Karnataka State Council for Science and Technology (KSCST)</strong>!
+  🎉 <strong>Selected for Sponsorship by KSCST (48th SPP 2024–25)</strong> 🎉<br>
+  Among hundreds of projects, <strong>FortiBlock</strong> was the only Blockchain-based system selected — aiming to redefine cloud security through decentralization and cryptography.
 </p>
 
 ---
 
-## 📘 Description
+## 📘 Project Overview
 
-FortiBlock is a blockchain-powered framework for secure access control in cloud systems. By integrating hybrid blockchain (public + private), AES encryption, and smart contracts, FortiBlock ensures two-way data protection, real-time access logging, and secure permission handling — all without relying on centralized trust.
+<div align="center">
 
-Built using **Ethereum**, **Django**, **Node.js**, **Solidity**, and **AES**, the framework is efficient, scalable, and ideal for secure file sharing in modern cloud environments.
+<table style="width:90%">
+  <tr>
+    <th>Feature</th>
+    <th>Description</th>
+  </tr>
+  <tr>
+    <td>🔐 Hybrid Blockchain</td>
+    <td>Combines public transparency and private confidentiality for secure access control.</td>
+  </tr>
+  <tr>
+    <td>🧠 SHA-512 Authentication</td>
+    <td>Credential hashing ensures that passwords are never stored or exposed.</td>
+  </tr>
+  <tr>
+    <td>🛡️ AES Encryption</td>
+    <td>Files are encrypted before upload to protect data from unauthorized access.</td>
+  </tr>
+  <tr>
+    <td>⚙️ Smart Contract-Based RBAC</td>
+    <td>Implements permission-based access with grant/revoke logic on Ethereum.</td>
+  </tr>
+  <tr>
+    <td>📜 Immutable Logs</td>
+    <td>All access events are recorded in blockchain, preventing tampering or fraud.</td>
+  </tr>
+</table>
+
+</div>
 
 ---
 
-## 🖼️ Project Title Image
+## 📥 Download Report & QR Code
 
-> Add a screenshot or banner here:
+<div align="center">
 
+<table style="width:80%">
+  <tr>
+    <th>📄 Report Link</th>
+    <th>📷 QR Code</th>
+  </tr>
+  <tr>
+    <td><a href="#">Download PDF Report</a></td>
+    <td><img src="#" alt="QR Code" width="150"/></td>
+  </tr>
+</table>
 
-```markdown
-![FortiBlock Banner](#)
+</div>
 
-📄 Report Link | 📷 QR Code
-Download Project Report (PDF) | 
+---
 
-Issue | FortiBlock Solution
-❌ Centralized Admins | ✅ Decentralized Smart Contracts
-❌ Weak Credential Storage | ✅ SHA-256/512 Hashed Logins
-❌ No Transparency | ✅ Immutable Blockchain Logs
-❌ Delayed Revocations | ✅ Real-Time Access Updates
-❌ Plaintext Cloud Uploads | ✅ AES-Encrypted File Uploads
+## 🧩 System Modules
 
-Module | Description
-🖼️ UI Module | Built using HTML, CSS, JS, Web3.js. Includes upload, login, permission revocation.
-🔐 Auth Module | Built with Django & Node.js, handles registration and login securely with SHA-512.
-⛓️ Blockchain | Ethereum Smart Contracts (Solidity) store access rights, permissions, and logs.
-☁️ Cloud Storage | AES-encrypted files uploaded to IPFS or cloud. Access granted via blockchain logic.
+<div align="center">
 
+<table style="width:90%">
+  <tr>
+    <th>Module</th>
+    <th>Technology</th>
+    <th>Description</th>
+  </tr>
+  <tr>
+    <td>🖼️ UI Layer</td>
+    <td>HTML, CSS, JS, Web3.js</td>
+    <td>Dashboard for uploading, permission setting, file access, revocation</td>
+  </tr>
+  <tr>
+    <td>🔐 Authentication</td>
+    <td>Django, Node.js, SHA-512</td>
+    <td>Registration, login, password protection with secure hashing</td>
+  </tr>
+  <tr>
+    <td>⛓️ Blockchain Access</td>
+    <td>Solidity, Ethereum, Web3</td>
+    <td>RBAC, access logs, direct/indirect sharing, revocation via smart contracts</td>
+  </tr>
+  <tr>
+    <td>☁️ Cloud Storage</td>
+    <td>AES, IPFS</td>
+    <td>Encrypted file upload/download, key management</td>
+  </tr>
+</table>
+
+</div>
+
+---
+
+## ⚙️ Technologies Used
+
+<div align="center">
+
+<table style="width:90%">
+  <tr>
+    <th>Layer</th>
+    <th>Technologies</th>
+  </tr>
+  <tr>
+    <td>Frontend</td>
+    <td>HTML, CSS, JavaScript, Web3.js</td>
+  </tr>
+  <tr>
+    <td>Backend</td>
+    <td>Django, Node.js</td>
+  </tr>
+  <tr>
+    <td>Blockchain</td>
+    <td>Ethereum, Solidity, Ganache, Truffle</td>
+  </tr>
+  <tr>
+    <td>Storage</td>
+    <td>AES Encryption, IPFS, Cloud API</td>
+  </tr>
+</table>
+
+</div>
+
+---
+
+## 🔧 Setup & Execution
+
+```bash
 # Backend
 cd backend
 pip install -r requirements.txt
@@ -57,36 +149,3 @@ truffle migrate --network development
 cd frontend
 npm install
 npm start
-
-
-Metric | FortiBlock Performance
-AES Encryption Time | ✅ < 1s for 512KB files
-Auth Validation | ✅ Blockchain-driven, real-time
-Smart Contract Gas Cost | ✅ Optimized to under 0.005 ETH
-Access Revocation Delay | ✅ Near-zero
-Overall Security Score | ✅ 95%+ with penetration tests
-
-Screen | Image
-📌 Welcome / Title Page | 
-🔐 Login / Signup | 
-☁️ Upload + Permission Setting | 
-⛓️ Blockchain Access Log | 
-🔁 Revocation Dashboard | 
-📊 Graphs / Analytics | 
-
-[Data Owner] ---> Upload File ---> [Cloud Storage]
-        |                               |
-        +--> Publish Permission ---> [Blockchain]
-                                           |
-                     [Data User] ---> Query + Request Access
-                                           |
-                                    [Smart Contract Validation]
-                                           |
-                          ---> File Access / Denial + Log Entry
-
-
-Name | Role | GitHub
-Sunil R (Team Leader) | 🔹 Frontend Design  🔹 Cloud Integration  🔹 Blockchain/Node Implementation | sunilr31r@gmail.com
-Shivakumar | 🔹 Cryptographic Algorithms  🔹 Credential Protection | @Shivakumarmathpati
-Surya Bharadwaj B S | 🔹 Backend Systems  🔹 Performance Optimization | –
-Rohan A Murari | 🔹 Smart Contract Dev  🔹 Deployment & Testing | –
